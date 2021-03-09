@@ -1,5 +1,6 @@
 import assert from 'assert'
 import Pokemon from '../src/components/pokemon'
+//comment
 describe('Should Component Contain Object', function() {
   describe('#Pokemon Component', function() {
     it('moreInfo property should be as object', function() {

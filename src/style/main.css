@@ -30,7 +30,7 @@
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  color: #d9230f;
+  color: #e4321e;
 }
 
 .search-query:focus + button {
@@ -92,7 +92,7 @@ body {
 }
 
 .type-grass {
-  background-color: #78c850;
+  background-color: #79c552;
   border: solid 1px #4e8234;
 }
 
